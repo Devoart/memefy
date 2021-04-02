@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/ic_searchbarbg"
+    tools:context=".Fragment.SearchFragment"
+    tools:ignore="MissingDefaultResource">
+
+<!--    <ImageView-->
+<!--        android:id="@+id/search_imageView15"-->
+<!--        android:layout_width="60dp"-->
+<!--        android:layout_height="400dp"-->
+<!--        android:layout_marginTop="210dp"-->
+<!--        android:src="@drawable/homebar"-->
+<!--        android:alpha="0.6"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/search_imageView16"-->
+<!--        android:layout_width="25dp"-->
+<!--        android:layout_height="30dp"-->
+<!--        android:layout_marginTop="60dp"-->
+<!--        android:src="@drawable/homeicon"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/search_imageView15"-->
+<!--        app:layout_constraintHorizontal_bias="0.25"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="@+id/search_imageView15" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/search_imageView17"-->
+<!--        android:layout_width="25dp"-->
+<!--        android:layout_height="30dp"-->
+<!--        android:layout_marginTop="40dp"-->
+<!--        android:src="@drawable/searchicon"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/search_imageView15"-->
+<!--        app:layout_constraintHorizontal_bias="0.25"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/search_imageView16" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/search_imageView18"-->
+<!--        android:layout_width="25dp"-->
+<!--        android:layout_height="30dp"-->
+<!--        android:layout_marginTop="40dp"-->
+<!--        android:src="@drawable/editicon"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/search_imageView15"-->
+<!--        app:layout_constraintHorizontal_bias="0.25"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/search_imageView17"-->
+<!--        app:layout_editor_absoluteY="382dp" />-->
+
+<!--    <ImageView-->
+<!--        android:id="@+id/search_imageView19"-->
+<!--        app:layout_editor_absoluteY="508dp"-->
+<!--        android:layout_width="25dp"-->
+<!--        android:layout_height="30dp"-->
+<!--        android:layout_marginTop="40dp"-->
+<!--        android:src="@drawable/profileicon"-->
+<!--        app:layout_constraintEnd_toEndOf="@+id/search_imageView15"-->
+<!--        app:layout_constraintHorizontal_bias="0.25"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/search_imageView18" />-->
+
+
+    <EditText
+        android:id="@+id/search_text"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="68dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/search_edittext_background"
+        android:hint="What are you looking for"
+        android:padding="16dp"
+        android:fontFamily="@font/poppins"
+        android:textColor="#fff"
+        app:iconifiedByDefault="false"
+        android:inputType="text"
+        android:drawablePadding="8dp"
+        android:drawableLeft="@drawable/searchicon"
+        android:drawableTint="#fff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/search_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Template Not Found"
+        android:fontFamily="@font/poppins"
+        android:textColor="#000"
+        android:textSize="16dp"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/search_text" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/search_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="8dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/search_tv" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

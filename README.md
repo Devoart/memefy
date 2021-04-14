@@ -1,10 +1,8 @@
-# Memes-Community
+![Banner](https://play-lh.googleusercontent.com/bqQq0lXfdbvuHycalp0LHFAIWrgOAfMqShmpoLv3wO7_q2HvEJjgBkj7qVgQtehghxc)
+
+# Memes Community
 
 https://play.google.com/store/apps/details?id=com.noneofever.memescommunity
-
-
-![Busy Screenshot](https://play-lh.googleusercontent.com/bqQq0lXfdbvuHycalp0LHFAIWrgOAfMqShmpoLv3wO7_q2HvEJjgBkj7qVgQtehghxc)
-
 
 ## screenshots
 

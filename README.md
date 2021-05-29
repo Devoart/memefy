@@ -1,4 +1,4 @@
-[![Memes Community](bg.png)](https://github.com/None-Of-Ever/Memes-Community) 
+[![Memes Community](bg.png)](https://play-lh.googleusercontent.com/bqQq0lXfdbvuHycalp0LHFAIWrgOAfMqShmpoLv3wO7_q2HvEJjgBkj7qVgQtehghxc)
 
 
 # Memes Community

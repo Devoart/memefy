@@ -1,5 +1,5 @@
 ![Memes_Community_Cover](https://play-lh.googleusercontent.com/bqQq0lXfdbvuHycalp0LHFAIWrgOAfMqShmpoLv3wO7_q2HvEJjgBkj7qVgQtehghxc)
-[![Memes Community](68747470733a2f2f706c61792d6c682e676f6f676c6575736572636f6e74656e742e636f6d2f62715171306c586664627675487963616c70304c484641495772674f41664d7153686d706f4c7633774f375f71324876454a6a67426b6a37715667517465686.png)](https://github.com/None-Of-Ever/Memes-Community) 
+[![Memes Community](bg.png)](https://github.com/None-Of-Ever/Memes-Community) 
 
 # Memes Community
 

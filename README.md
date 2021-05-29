@@ -1,4 +1,4 @@
-![Memes-Community_Cover](https://play-lh.googleusercontent.com/bqQq0lXfdbvuHycalp0LHFAIWrgOAfMqShmpoLv3wO7_q2HvEJjgBkj7qVgQtehghxc)
+![Memes_Community_Cover](https://play-lh.googleusercontent.com/bqQq0lXfdbvuHycalp0LHFAIWrgOAfMqShmpoLv3wO7_q2HvEJjgBkj7qVgQtehghxc)
 
 # Memes Community
 

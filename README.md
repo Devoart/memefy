@@ -1,5 +1,7 @@
 ![Memes_Community_Cover](https://play-lh.googleusercontent.com/bqQq0lXfdbvuHycalp0LHFAIWrgOAfMqShmpoLv3wO7_q2HvEJjgBkj7qVgQtehghxc)
 [![Memes Community](bg.png)](https://github.com/None-Of-Ever/Memes-Community) 
+![bg](https://user-images.githubusercontent.com/41372859/120061694-3572e080-c080-11eb-959d-69d1e075a2da.png)
+
 
 # Memes Community
 

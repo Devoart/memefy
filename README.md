@@ -1,4 +1,4 @@
-[![]()](https://play-lh.googleusercontent.com/bqQq0lXfdbvuHycalp0LHFAIWrgOAfMqShmpoLv3wO7_q2HvEJjgBkj7qVgQtehghxc)
+<img src="https://play-lh.googleusercontent.com/bqQq0lXfdbvuHycalp0LHFAIWrgOAfMqShmpoLv3wO7_q2HvEJjgBkj7qVgQtehghxc"> 
 
 
 # Memes Community
